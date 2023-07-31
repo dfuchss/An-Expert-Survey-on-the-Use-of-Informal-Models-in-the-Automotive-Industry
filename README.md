@@ -1,6 +1,14 @@
 # Replication Package: An Expert Survey on the Use of Informal Models in the Automotive Industry
-This replication package contains all information from the survey.
+This repository contains the replication package for the paper *An Expert Survey on the Use of Informal Models in the Automotive Industry* by 
+[Dominik Fuchß](https://orcid.org/0000-0001-6410-6769), 
+[Thomas Kühn](https://orcid.org/0000-0001-7312-2891),
+[Jérôme Pfeiffer](https://orcid.org/0000-0002-8953-1064),
+[Andreas Wortmann](https://orcid.org/0000-0003-3534-253X), and
+[Anne Koziolek](https://orcid.org/0000-0002-1593-3394).
+The paper has been accepted at the [TwinArch 2023: The 2nd International Workshop on Digital Twin Architecture](https://www.iese.fraunhofer.de/en/twinarch.html) co-located with [ECSA 2023](https://conf.researchr.org/home/ecsa-2023).
 
+
+This replication package contains all information from the survey.
 The files `results-survey.xlsx`, `results-survey.csv`, and `results-survey-translated.csv` contain the original data from the survey.
 
 ## Format of the result files
